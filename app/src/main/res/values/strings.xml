@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Myapp</string>
+    <integer name="value">1</integer>
+</resources>
